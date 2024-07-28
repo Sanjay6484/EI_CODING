@@ -48,31 +48,38 @@ Create a system where different types of coffee drinks can be customized with va
 
 
 ## 2. Mini-project
-*Scenario: Virtual Classroom Manager
-*Description:
+* Scenario: Virtual Classroom Manager
+* Description:
 The Virtual Classroom Manager is an application designed to help educators manage their classrooms, students, and assignments efficiently. 
 It allows educators to perform tasks such as adding classrooms, adding students with their IDs and names to specific classrooms, scheduling assignments, submitting assignments, listing students in a classroom, and fetching student details by ID. 
 The application employs various design patterns to ensure it is scalable, maintainable, and robust, with comprehensive logging of all actions and errors.
 
 * The application is launched, and the main menu is displayed to the user.
+
 ![image](https://github.com/user-attachments/assets/3b55b504-5649-4977-aad4-cb4efb50c4f8)
 
 * Adding a Classroom:
+  
 ![image](https://github.com/user-attachments/assets/8702b53f-bc0d-40ca-8414-72c88a7d4c3f)
 
 * Adding Students to a Classroom:
+  
 ![image](https://github.com/user-attachments/assets/0b0b653b-ddd9-4d21-8d4f-d7c5e3ec6597)
 
 * Scheduling an Assignment:
+  
 ![image](https://github.com/user-attachments/assets/6c3065c4-0164-4660-aef5-4f128adb5072)
 
 * Submitting an Assignment:
+  
 ![image](https://github.com/user-attachments/assets/ea1daf07-5563-42fd-b00a-2e247fd26f02)
 
 * Listing Students in a Classroom:
+  
 ![image](https://github.com/user-attachments/assets/ed91d18e-5dbb-4e98-bf5b-113a470e4860)
 
 * Listing Classrooms and removal of classroom:
+  
 ![image](https://github.com/user-attachments/assets/a4a227b6-00e3-41f3-a112-b943c962e060)
 
 
